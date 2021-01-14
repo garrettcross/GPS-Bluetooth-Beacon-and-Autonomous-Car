@@ -6,7 +6,7 @@ CECS 490 - Senior Project:
 -Garrett  Cross
 -William  Duong
 -Terrence Hamilton
--Nicole   Reinking
+-Nicole   Reinkin
 
 # Hardware
 -TM4C123GH6PM Tiva C LaunchPad Microcontroller
