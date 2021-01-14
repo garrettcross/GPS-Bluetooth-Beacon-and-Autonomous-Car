@@ -1,15 +1,18 @@
 # GPS-Bluetooth-Beacon-and-Autonomous-Car
 CECS 490 - Senior Project:
   A beacon sends out its coordinates via Bluetooth and an autonomous car receives the coordinates and compares it with its own and moves towards the beacon.
+  
 # Authors
 Garrett  Cross
 William  Duong
 Terrence Hamilton
 Nicole   Reinking
+
 # Hardware
 TM4C123GH6PM Tiva C LaunchPad Microcontroller
 HC-05        Bluetooth Module
 NEO6MV2      GPS Moudule
+
 # Brief Overview
 1.  Interface GPS Module with Onboard UART Module
 2.  (Optional) Output Coordinates on LCD Display
